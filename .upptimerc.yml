@@ -9,7 +9,8 @@ sites:
     url: https://www.123ink.ca
   - name: Primecables
     url: https://www.primecables.ca
-
+  - name: FBS
+  - url: https://merchant.spexpress.ca
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
