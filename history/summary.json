@@ -67,7 +67,7 @@
     "url": "https://merchant.spexpress.ca",
     "icon": "https://icons.duckduckgo.com/ip3/merchant.spexpress.ca.ico",
     "slug": "fbs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -78,6 +78,8 @@
     "timeWeek": 232,
     "timeMonth": 281,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-15": 0
+    }
   }
 ]
