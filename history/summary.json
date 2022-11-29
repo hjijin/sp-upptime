@@ -4,9 +4,9 @@
     "url": "https://www.shopperplus.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.shopperplus.ca.ico",
     "slug": "shopperplus",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,25 +15,28 @@
     "timeWeek": 337,
     "timeMonth": 366,
     "timeYear": 368,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-29": 0
+    }
   },
   {
     "name": "123ink",
     "url": "https://www.123ink.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.123ink.ca.ico",
     "slug": "123ink",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 393,
-    "timeDay": 477,
-    "timeWeek": 361,
-    "timeMonth": 403,
-    "timeYear": 393,
+    "time": 391,
+    "timeDay": 341,
+    "timeWeek": 342,
+    "timeMonth": 397,
+    "timeYear": 391,
     "dailyMinutesDown": {
+      "2022-11-29": 0,
       "2022-11-10": 27
     }
   },
@@ -49,7 +52,7 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.78%",
     "time": 412,
-    "timeDay": 325,
+    "timeDay": 479,
     "timeWeek": 309,
     "timeMonth": 434,
     "timeYear": 412,
