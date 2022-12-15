@@ -1,7 +1,7 @@
 url: https://www.shopperplus.ca
-status: up
-code: 200
-responseTime: 637
-lastUpdated: 2022-12-14T23:09:29.936Z
+status: down
+code: 503
+responseTime: 268
+lastUpdated: 2022-12-15T08:32:15.582Z
 startTime: Fri Aug 26 2022 03:58:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
